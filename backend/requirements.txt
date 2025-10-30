@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-docx
+pyyaml
+requests
+python-dotenv
