@@ -5,6 +5,7 @@ __pycache__/
 
 datasets/
 raw/
+generated_docs/
 # C extensions
 *.so
 *.db
